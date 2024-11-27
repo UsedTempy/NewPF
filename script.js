@@ -21,8 +21,8 @@ link4.addEventListener('click', () => {
     scrollToElement('.column');
 });
 
-const cvButton = document.getElementById('cvLink');
-cvButton.addEventListener('click', function() {
-    const cvLink = "./pdf/CV.pdf";
-    window.open(cvLink, '_blank')
-  });
+// const cvButton = document.getElementById('cvLink');
+// cvButton.addEventListener('click', function() {
+//     const cvLink = "./pdf/CV.pdf";
+//     window.open(cvLink, '_blank')
+//   });
